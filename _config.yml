@@ -1,10 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://jds2601.github.io"
-theme: type-on-strap
 
 # THEME-SPECIFIC CONFIGURATION
-title: type-on-strap                                    # site's title
 description: >-
   Cybersecurity & IT student at UCF | Aspiring Cyber Security Professional      # used by search engines
 author:
