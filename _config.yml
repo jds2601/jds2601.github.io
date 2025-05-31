@@ -3,8 +3,13 @@ baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+title: Jake Stamper                                    # site's title
+description: "Cybersecurity | IT | UCF Student"      # used by search engines
+author:
+  name: "Jake Stamper"
+  email: "jdspss05@gmail.com"
+  github: "jds2601"
+  linkedin: "https://www.linkedin.com/in/jake-dylan-stamper/"
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
